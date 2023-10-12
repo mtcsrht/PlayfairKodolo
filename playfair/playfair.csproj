@@ -7,7 +7,7 @@
     <ProjectGuid>{7196AF8A-B78E-46BB-AC77-3F51296630CA}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>playfair</RootNamespace>
-    <AssemblyName>PlayfairKodolo</AssemblyName>
+    <AssemblyName>playfair</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
