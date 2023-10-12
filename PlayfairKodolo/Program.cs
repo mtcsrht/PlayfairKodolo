@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace playFair
+namespace playfair
 {
     internal class Program
     {

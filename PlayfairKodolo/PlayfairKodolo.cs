@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace playFair
+namespace playfair
 {
     internal class PlayfairKodolo
     {
